@@ -109,7 +109,10 @@ This will export all combinations automatically.
 - `BatchStepExporter/`: FreeCAD addon files
 - `docs/screenshots/`: screenshots used in documentation
 - `docs/releases/`: release notes
-- `README.de.md`: German documentation
+
+Documentation policy:
+
+- `README.md` is the single maintained source of truth.
 
 ## License
 
