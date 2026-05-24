@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# FreeCAD local artifacts
+*.FCStd1
+*.bak
+
+# Editor/OS
+.DS_Store
+Thumbs.db
